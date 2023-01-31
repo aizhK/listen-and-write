@@ -25,5 +25,5 @@ This program is a simple HTML, CSS, and JavaScript project that allows a user to
 
 ## Notes
 
-This program uses the SpeechRecognition API, which may not be available in all browsers. Currently, it has been tested on Google Chrome.
-Ensure that your microphone is turned on and allowed to be used by the browser.
+- This program uses the SpeechRecognition API, which may not be available in all browsers. Currently, it has been tested on Google Chrome.
+- Ensure that your microphone is turned on and allowed to be used by the browser.
